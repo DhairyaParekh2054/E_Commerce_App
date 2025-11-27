@@ -1,6 +1,37 @@
 # e_commerce_app
 
-A new Flutter project.
+It is an E-commerce platform where user can buy products easily and safely delivered.
+This E-commerce flutter app build with help of Firebase and Razorpay Payment Gateway
+
+## Featues
+-User Login/Signup (Manual),
+
+-User Side:
+  -Home Screen (Product Listing, Search Filter)
+  -Wishlist
+  -Cart
+  -Make Orders (Razorpay payment)
+  -Your Orders (Order details with tracking)
+  -Your Account (edit user info)
+  -Contect Us
+  -About Us
+  -Footer Links
+
+-Admin Side:
+  -Dashboard
+  -Manage Products
+  -Manage Users / Admin
+  -Manage Order Tracking Status
+  -Admin Settings
+
+
+##Tech State
+-Flutter
+-Firebase Firestore
+-Razorpay Gatway
+-Android Studio
+-Other Dependencies
+
 
 ## Getting Started
 
