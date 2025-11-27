@@ -25,7 +25,7 @@ This E-commerce flutter app build with help of Firebase and Razorpay Payment Gat
   -Admin Settings
 
 
-##Tech State
+## Tech State
 -Flutter
 -Firebase Firestore
 -Razorpay Gatway
